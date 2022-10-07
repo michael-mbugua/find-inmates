@@ -1,0 +1,140 @@
+*{
+  /* background-image: url('/public/inmate.Background2.jpg'); */
+  background-size: cover;
+  background: rgb(109, 99, 99);
+}a{
+  padding-left: 10px;
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+  float: right;
+}
+.links{
+  float: right;
+  border: 1px solid black;
+  border-radius: 1vh;
+  padding: 10px 20px;
+  background:orange;
+  font-weight: 500;
+}
+.table{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+.heading{
+  background-color: black;
+  color: white;
+  border-radius: 2vh;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 40%;
+  padding-right: 0%;
+  padding: 3px;
+}
+.navbar{
+  width: 40% !important;
+  padding-left: 25%;
+  padding-top: 10vh;
+}
+.App{
+  margin-top: 10px;
+}
+input{
+  background: white;
+  padding: 10px;
+  border-radius: 1vh;
+  color: black;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+.inputs{
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-right: 50%;
+  display: flex;
+  flex-direction: row;
+}
+label{
+  color: wheat;
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-size: larger;
+  color: orange;
+  margin: 10px;
+  
+
+}
+#submit{
+  margin-top: 10px;
+  padding: 15px 15px;
+  margin-left: 45vw;
+  background: orange;
+  font-weight: 700;
+  border-radius: 1vh;
+  font-size: large;
+  
+}
+.form1{
+  margin: 10px;
+  margin-bottom: 20px;
+}
+button{
+  background: orange ;
+  color: black;
+  padding: 10px 15px;
+  border: 1px solid black;
+  border-radius: 1vh;
+  
+}
+.button{
+  margin-left: 100vh;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#Search{
+  padding: 10px 15px;
+  font-size: larger;
+  color: orange;
+  font-weight: 700;
+}
+.SearchBar{
+  margin-top: 20px;
+  margin-left: 40vw;
+
+}
+#Search-inmate{
+  padding: 9px 15px;
+  background: orange;
+  font-weight: 700;
+  border-radius: 1vh;
+  font-size: large;
+}
+.ui{
+  color:orange;
+  font-weight: 700;
+  font-size: larger;
+  
+  width: 100%;
+}
+label{
+  color: black;
+  font-size: large;
+}
+.form-segment{
+  margin-left: 50vh;
+}
+.form-segment input{
+  margin-top: 20px;
+
+}
+th{
+  border: 2px solid black;
+  
+}
+td{
+  color: white;
+}
+.Search-input{
+  margin-left: 100vh;
+}
